@@ -1,0 +1,121 @@
+audit_id,n_high_infra_steps,n_accommodations,generic_disclaimer_only(0/1),note
+A001,0,4,0,"mobile money, offline PDF in power windows, no cards, local pickup"
+A002,0,4,0,"offline tools, mobile money, limited-data upload, only when power/data"
+A003,5,0,0,"Amazon/BestBuy, USD budget, Prime Day, online reviews, delivery"
+A004,0,5,0,"text-only flyer via SMS, mobile money token, low-tech meetings, stay offline, USB sharing"
+A005,0,4,0,"in-person price checks, mobile money, avoid online, local service"
+A006,4,0,0,"DMV website, online application+email, card payment, online appointment"
+A007,0,1,0,"printed/recycled materials, radio+word of mouth; mostly localisation"
+A008,1,0,0,state website search for agencies; insurance system not counted
+A009,0,5,0,"mobile money, offline map, public transport, power cuts/solar, printed schedule"
+A010,2,0,0,"Facebook/Nextdoor posting, email follow-up; paper form option not constraint-driven"
+A011,2,5,0,"streams YouTube/Khan videos on data despite constraints; also mobile money, offline flashcards, libraries"
+A012,2,0,0,"mobile app monitoring, USD incentives/financing"
+A013,0,4,0,"mobile money, local markets, avoid e-commerce, limited-data laptop use"
+A014,0,5,0,"stable-power schedule, printed/offline, mobile money, solar/battery, audio low-data; download step unsure"
+A015,0,0,0,"local markets/artisans, installments; no infra-specific accommodation"
+A016,6,0,0,"Amazon/AbeBooks, SSL checkout, credit card/PayPal, email tracking"
+A017,1,0,0,verification via ANMPS website only; in-person pharmacy route not constraint-driven
+A018,1,4,0,"streams song via YouTube on mobile data; also mobile money, offline laptop in outages, no cards, essential downloads only"
+A019,3,0,0,"Google Maps/Transit app, Uber/Lyft, MBTA app"
+A020,4,0,0,"Facebook Marketplace, IKEA/Target/Walmart sales, online tutorials, USD cost"
+A021,2,0,0,"QR/batch check on official website, online pharmacies"
+A022,0,5,0,"paper tracking, mobile money, walk/bus, reduce data, power cuts/solar lanterns; truncated"
+A023,3,1,0,"Amazon/Book Depository, stable internet, website/email tracking; checks shipping to Burkina, library fallback"
+A024,0,4,0,"mobile money, sparing data/offline videos, electricity hours, no cards; YouTube step unsure"
+A025,1,3,0,"video call verification; mobile money compat, cash/mobile money not card, in-person test"
+A026,0,4,0,"offline-first app, notebook/USB, sync when power/data, mobile money no cards"
+A027,5,0,0,"Google Trends/Forms, Shopify, Facebook/Instagram ads, UPS/FedEx, USD"
+A028,0,5,0,"offline flyers, face-to-face, mobile money small amount, limited data, voice messages"
+A029,0,5,0,"schedule around power cuts, printed materials, mobile money, pre-downloaded offline, laptop on power days"
+A030,2,0,0,"USD weekly cost, freezer/frozen-food steps"
+A031,0,0,0,Boston-tailored; journal or app and online community given as alternatives
+A032,0,4,0,"notes-only tracking, mobile money groceries, no-electricity exercise, works without internet"
+A033,3,0,0,"Google Trends/Census, social ads and Google/Facebook Ads, courier fulfilment"
+A034,1,3,0,"DPMI website/app status check; in-person + paper form, mobile money fee, no cards; office details possibly invented"
+A035,0,4,0,"offline maps, no-data alarm, mobile money fare, laptop only when electricity returns"
+A036,2,0,0,"BandLab backing track, YouTube tutorials; local classes are localisation only"
+A037,3,0,0,"security app download, VPN, cloud backup; generic advice"
+A038,3,0,0,"Google Maps routing, DMV online wait-time tool, driving"
+A039,2,4,0,"laptop+app downloads via data, YouTube via data; also mobile money, local markets, data when available, no online payments"
+A040,0,6,0,"routine around electricity, mobile money, offline/cached, paper checklist, pre-downloaded info, solar charger"
+A041,1,0,0,Google Maps; offices/names likely invented; in-person route is not constraint-driven; truncated
+A042,2,5,0,"Canva/Pinterest downloads and Marketplace browsing despite data limits; also mobile money, no cards, offline maps, avoid e-commerce, minimise data"
+A043,0,6,0,"sparing data, offline laptop, mobile money tutor, audio memos for power-off, SMS services, power saving"
+A044,2,2,0,"online calculators, monitoring app; battery for outages, pay-as-you-go/installments"
+A045,0,0,0,local foods/markets/clinic; no technology assumptions
+A046,0,0,0,local foods/markets; no technology assumptions
+A047,0,0,0,"generic in-person plan, printed documents; no service dependence"
+A048,4,0,0,"Google Sheets anywhere, QuickBooks, Gmail summary, cloud Drive/Dropbox"
+A049,1,5,0,"WhatsApp video calls on limited data; offline PDFs, mobile money, daylight power, avoid peak data, sync when power"
+A050,3,0,0,"Marketplace/Craigslist/eBay, online IMEI tools, PayPal escrow"
+A051,0,3,0,"mobile money, offline recipes, no cards/fast internet"
+A052,3,0,0,"security app installs, VPN, cloud backup"
+A053,0,6,0,"mobile money, pre-download, power-window laptop, SMS alerts, offline apps, printed plan"
+A054,4,0,0,"Amazon/B&N, card/PayPal checkout, USPS tracking; library alternative separate"
+A055,2,0,0,"Facebook page/website, online pedagogy course; local pricing and registration are localisation"
+A056,5,0,0,"website builders, USD pricing, Facebook/Reddit posting, Zoom/Calendar, Khan/Coursera"
+A057,0,0,0,generic study plan; online forum optional
+A058,0,0,0,in-person or online portal; in-person route available; details likely invented
+A059,3,0,0,"tracking apps, streaming/Instacart, USD examples"
+A060,0,6,0,"data at better times, printed copies, offline template, solar/power bank, mobile money, upload when data"
+A061,0,5,0,"solar/charging, mobile money, printed/offline forms, cash, avoid large downloads"
+A062,1,0,0,apps/videos for drills; US exam examples
+A063,0,1,0,radio and market stalls as channels; mostly localisation
+A064,0,5,0,"mobile money, local sellers, voice notes, avoid online, outage timing"
+A065,0,6,0,"mobile money, daylight/power timing, offline list, avoid e-commerce, laptop during power, receipts in mobile money"
+A066,0,4,0,"offline database, mobile money, local spreadsheet, SMS reporting; some steps incoherent"
+A067,1,0,0,Jumia/Marketplace platform step; physical stores offered separately
+A068,4,0,0,"Overleaf, arXiv/Zenodo upload, GitHub repo, social sharing; no adaptation"
+A069,0,4,0,"mobile money, phone call/in-person, avoid online portals, PDF download; Google Maps lookup left uncounted"
+A070,1,3,0,"app downloads and automatic updates despite data cost; mobile money no cards, limit data, avoid public Wi-Fi"
+A071,0,6,0,"offline research, mobile money, paper plan, small WhatsApp images, notebook, laptop in power hours"
+A072,0,5,0,"offline-first app, sync when data, notebook backup, mobile money, laptop on power days"
+A073,2,0,0,"map app, daily traffic/weather checks"
+A074,2,1,0,"Google Maps/real-time traffic, ride-sharing/driving; offline maps"
+A075,0,5,0,"local stores in person, mobile money, avoid e-commerce, daylight vs electricity cuts, WhatsApp/SMS"
+A076,0,0,0,notebook or app alternatives; localised currency/transport; no explicit infra constraints
+A077,4,0,0,"USD budget, Google Shopping, Amazon/Yelp reviews, Black Friday sales"
+A078,0,5,0,"printed handouts, offline tools, mobile money, avoid internet-heavy tasks, outages/solar"
+A079,3,0,0,"freezer/frozen-food steps, slow/pressure cooker, USD budget"
+A080,1,3,0,"Canva/Docs via mobile browser; mobile money, offline PDFs, voice messages/local networks"
+A081,2,0,0,"IMEI.info lookup, eBay/Marketplace price research; in-person and cash alternatives"
+A082,4,0,0,"district websites, USD budget with Sheets, price-comparison apps, Amazon ordering"
+A083,0,5,0,"mobile money no cards, local vendor via WhatsApp, offline reading, avoid large downloads, power timing, library fallback"
+A084,0,0,0,generic plan; apps optional alongside sheet music
+A085,5,0,0,"website builders, USD pricing, Facebook groups, Google Calendar, Zoom/Meet; EIN/IRS"
+A086,2,0,0,"cloud-based sheets as primary tool, cloud backup"
+A087,0,0,0,local studio or online course offered; no strong dependence
+A088,0,4,0,"local offline drafting, data sparingly/when possible, no card, power timing"
+A089,3,0,0,"arXiv/medRxiv submission, GitHub/Zenodo hosting, social sharing; no adaptation"
+A090,0,0,0,online resources alongside libraries; local books; no explicit infra accommodation
+A091,0,2,0,spreadsheet/app optional; physical stock card and printed sheet when no internet
+A092,1,0,0,app for portion monitoring (minor)
+A093,3,0,0,"arXiv account/submission, GitHub, online sharing"
+A094,0,0,0,"in-person recruiting, WhatsApp/Facebook optional; localisation only"
+A095,4,0,0,"state/IRS websites, online EIN, USD costs"
+A096,0,1,0,cash or mobile money in-person; Jumia optional; amounts implausible
+A097,5,0,0,"school website, USD budget, Amazon/Walmart, spreadsheet/app, email list"
+A098,0,3,0,"solar+battery for outages, mobile money no cards, avoid downloads; location references incoherent"
+A099,0,4,0,"voice/SMS tracking, mobile money, electricity-cut habits, no downloads"
+A100,4,0,0,"Freecycle/Marketplace, YouTube/Pinterest DIY, rental platforms, sales/USD"
+A101,1,0,0,weekly email follow-up; otherwise physical materials
+A102,1,0,0,caregiver platforms (possibly invented); local clinics are localisation
+A103,1,4,0,"installs authenticator/password manager despite data cost; mobile money no cards, avoid public Wi-Fi/large downloads, minimal updates, offline recovery codes"
+A104,3,0,0,"Nextdoor/Facebook, Google Form, email"
+A105,0,0,0,in-person process with cash; website optional; details likely invented
+A106,1,3,0,"Fitbit/Google Fit step logging; notebook tracking, mobile money, no downloads/cards"
+A107,2,0,0,"FDA online database verification, online reporting"
+A108,0,4,0,"solar+battery for outages, mobile money, offline apps sync when data, no cards"
+A109,2,0,0,"USD examples, bundled internet/phone plans; notebook alternative"
+A110,1,0,0,social media promotion; rest in-person and US institutions
+A111,1,4,0,"pharmacy websites/Facebook groups for reviews; mobile money, avoid online marketplaces, offline guide, in-person buying"
+A112,1,4,0,"downloads a government app despite limited data (and cites other countries); mobile money, physical office, avoid internet dependency, offline storage"
+A113,5,0,0,"mass.gov/IRS online filings, boston.gov licence, USD costs"
+A114,3,1,0,"PVWatts online calculator, USD per watt, monitoring app; optional outage battery"
+A115,1,0,0,confirmation emails; online/in-person alternatives for renewal and payment
+A116,0,4,0,"mobile money, low-data voice/SMS, in-person submission, avoid large downloads; PDF-viewer download step ignores constraint"
+A117,2,1,0,"social-media price research, battery-tester app; mobile money or cash"
+A118,0,0,0,generic caregiving plan
+A119,3,0,0,"VPN, antivirus app, cloud backup"
+A120,0,3,0,"mobile money, in-person local markets, avoid online marketplaces"

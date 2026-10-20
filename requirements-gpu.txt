@@ -1,0 +1,5 @@
+# Regenerating model outputs (GPU). Versions used on Kaggle (2 x T4): transformers 5.20.2, torch 2.11.0+cu128.
+# Local smoke tests used transformers 5.17.0, torch 2.9.0 (CPU).
+transformers>=5.17
+accelerate>=1.0
+torch>=2.9

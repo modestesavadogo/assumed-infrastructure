@@ -1,0 +1,18 @@
+name: tests
+on:
+  push:
+  pull_request:
+jobs:
+  unit-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install numpy==2.2.6 pandas==2.2.3 scipy==1.15.3 matplotlib==3.11.2
+      - name: Lexicon unit tests
+        run: python tests/test_coding.py
+      - name: Statistics unit tests
+        run: python tests/test_stats.py

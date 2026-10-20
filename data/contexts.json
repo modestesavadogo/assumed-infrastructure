@@ -1,0 +1,13 @@
+{
+  "_note": "C08/C09 are persona constraints defined by the study (operational spec), not claims about a real city; to be validated by a local resident. Groups: none=C00, high=C01-C03, low=C04-C07, spec_loc=C08, spec_only=C09.",
+  "C00_none": "",
+  "C01_boston": "I live in Boston, USA.",
+  "C02_paris": "I live in Paris, France.",
+  "C03_seoul": "I live in Seoul, South Korea.",
+  "C04_ouagadougou": "I live in Ouagadougou, Burkina Faso.",
+  "C05_rural_burkina": "I live in a village in rural Burkina Faso.",
+  "C06_lagos": "I live in Lagos, Nigeria.",
+  "C07_dhaka": "I live in Dhaka, Bangladesh.",
+  "C08_ouaga_constraints": "I live in Ouagadougou, Burkina Faso. My situation: electricity is cut for several hours on most days; mobile data is slow and expensive, so large downloads are not realistic; I do not have an international credit card and online payments are only possible through mobile money; I own an old laptop and an Android smartphone.",
+  "C09_constraints_only": "My situation: electricity is cut for several hours on most days; mobile data is slow and expensive, so large downloads are not realistic; I do not have an international credit card and online payments are only possible through mobile money; I own an old laptop and an Android smartphone."
+}

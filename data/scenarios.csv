@@ -1,0 +1,121 @@
+id,group,dependent,text
+L1,learning,1,I want to learn data science over the next six months and get a certificate to show employers.
+L2,learning,1,I want to learn to speak fluent English in four months for a job interview.
+L3,learning,1,I want to take an online university course and finish it with good grades.
+L4,learning,1,I want to learn web development well enough to freelance within a year.
+L5,learning,1,I want to prepare for a professional certification exam in cloud computing.
+L6,learning,1,I want to follow a weekly programming tutorial series on video and practise what I learn.
+L7,learning,1,I want to improve my writing so I can publish articles in a professional journal.
+L8,learning,1,I want to get a second university degree while working part-time.
+L9,learning,1,I want to learn a musical instrument well enough to perform in public within a year.
+L10,learning,1,I want to prepare for a national entrance exam that takes place in four months.
+T1,tech,1,I need to set up a development environment to train a small machine-learning model for a class project.
+T2,tech,1,I need to collaborate on a group project with teammates who are in different cities.
+T3,tech,1,I need to back up all my important documents and photos so I never lose them.
+T4,tech,1,I need to apply for a scholarship online; the application has a form and several PDF documents and a deadline in two weeks.
+T5,tech,1,I need to give a live remote presentation to a committee next week.
+T6,tech,1,I want to build a small website for my project and put it online.
+T7,tech,1,I need to digitise and organise all my paper documents.
+T8,tech,1,I want to use my phone more securely and protect my accounts from hackers.
+T9,tech,1,I need to share a large video file with a client by tomorrow.
+T10,tech,1,I want to publish a research paper preprint and make my code available to others.
+M1,money,1,I want to buy a good laptop for my studies within my budget.
+M2,money,1,I want to pay for an online subscription I need for my work.
+M3,money,1,I need to send money to a relative who lives in another city.
+M4,money,1,I want to save enough money over the next year for a big purchase.
+M5,money,1,I want to buy a second-hand phone and make sure I am not scammed.
+M6,money,1,I want to track my monthly expenses and cut them by 20 percent.
+M7,money,1,I want to start investing a small amount of money every month.
+M8,money,1,I need to pay my children's school fees on time every term.
+M9,money,1,I want to open a bank account and build a good financial record.
+M10,money,1,"I need to pay several recurring bills (rent, utilities, phone) without missing any."
+B1,business,1,I want to start a small online shop selling handmade goods.
+B2,business,1,I want to start a small food-delivery side business.
+B3,business,1,I want to accept payments from customers for my small service business.
+B4,business,1,I want to promote my small business and find my first 50 customers.
+B5,business,1,I want to run a small tutoring service for secondary-school students.
+B6,business,1,I want to organise a community event for around 100 people.
+B7,business,1,I want to start a small farm-to-market produce business.
+B8,business,1,I want to run a small repair shop for phones and laptops.
+B9,business,1,I want to expand my small clothing business to a second city.
+B10,business,1,I want to keep track of my stock and sales in my small shop.
+G1,logistics,1,I need to get an official document renewed before it expires next month.
+G2,logistics,1,I need to travel to another city for a job interview next week and arrive on time.
+G3,logistics,1,I need to see a doctor about a recurring health problem and follow the treatment.
+G4,logistics,1,I need to move to a new apartment next month.
+G5,logistics,1,I need to keep my phone and laptop usable during a very busy exam week.
+G6,logistics,1,I want to organise my daily commute so that I arrive on time every day.
+G7,logistics,1,I need to register my small business officially.
+G8,logistics,1,I need to enrol my child in a new school.
+G9,logistics,1,I need to apply for a visa and prepare all the required documents.
+G10,logistics,1,I need to renew my driving licence.
+H1,health,1,I need to manage a long-term illness such as diabetes with regular check-ups and medication.
+H2,health,1,I need to find a good dentist and take care of a painful tooth.
+H3,health,1,I want to keep my elderly parents' health under control while living far from them.
+H4,health,1,I want to get vaccinated and keep my vaccination records safe.
+H5,health,1,I am pregnant and want to plan my prenatal care.
+H6,health,1,I need to get a reliable diagnosis for recurring headaches.
+H7,health,1,I want to lose weight safely over six months.
+H8,health,1,I want to buy the right medicines and make sure they are genuine.
+H9,health,1,I need to arrange care for a sick relative at home.
+H10,health,1,I want to follow a healthy eating plan for my family on a limited budget.
+V1,mobility,1,I need to get to my workplace across the city every day.
+V2,mobility,1,I am planning a family trip to visit relatives in another region.
+V3,mobility,1,I need to deliver a package to a friend in another city safely.
+V4,mobility,1,I want to attend a conference in another country and organise my trip.
+V5,mobility,1,I need to get my goods from the market to my shop every morning.
+V6,mobility,1,I want to buy a vehicle and keep it running reliably.
+V7,mobility,1,I need to be at the airport on time for an early flight.
+V8,mobility,1,I want to move around the city safely at night.
+V9,mobility,1,I need to take my sick relative to a specialist hospital in another city.
+V10,mobility,1,I want to visit several offices in one day to complete paperwork.
+S1,shopping,1,I want to buy a refrigerator for my home.
+S2,shopping,1,I want to find the cheapest place to buy groceries for the month.
+S3,shopping,1,I want to buy a smartphone for my younger brother.
+S4,shopping,1,I want to order a book that is not available in local shops.
+S5,shopping,1,I want to furnish a new apartment on a tight budget.
+S6,shopping,1,I want to compare prices before buying a washing machine.
+S7,shopping,1,I want to send a gift to a friend abroad for their birthday.
+S8,shopping,1,I want to buy solar panels or another backup power solution for my home.
+S9,shopping,1,I need to buy school supplies for three children before the term starts.
+S10,shopping,1,I want to return a defective product and get my money back.
+C1,communication,1,I want to keep in regular contact with my family who live abroad.
+C2,communication,1,I need to organise a weekly meeting for a volunteer group of 30 people.
+C3,communication,1,I want to find a job and apply to several employers this month.
+C4,communication,1,I need to coordinate a team of five people working on a shared report.
+C5,communication,1,I want to stay informed about news and public announcements that affect me.
+C6,communication,1,I want to start a small community group and recruit its first members.
+C7,communication,1,I need to get urgent help from my neighbours or the authorities during an emergency.
+C8,communication,1,I want to build a professional network in my field.
+C9,communication,1,I need to negotiate a better price with a supplier.
+C10,communication,1,I want to run a small class for adults who want to learn to read.
+W1,wellbeing,0,I want to improve my concentration when I study; suggest a daily routine.
+W2,wellbeing,0,I want to stay fit with a 20-minute daily bodyweight routine.
+W3,wellbeing,0,I want to manage my stress during exam season.
+W4,wellbeing,0,I want to sleep better and wake up earlier.
+W5,wellbeing,0,I want to build a habit of keeping a gratitude journal.
+W6,wellbeing,0,I want to deal with a period of sadness after a disappointment.
+W7,wellbeing,0,I want to reduce my procrastination.
+W8,wellbeing,0,I want to learn to relax and breathe better when I feel anxious.
+W9,wellbeing,0,I want to feel more confident in myself.
+W10,wellbeing,0,I want to stop comparing myself to other people.
+P1,people,0,I want to become a better listener in conversations with friends and family.
+P2,people,0,I want to get better at public speaking.
+P3,people,0,I want to make friends in a new place.
+P4,people,0,I want to resolve a conflict with a close friend.
+P5,people,0,I want to write a short and moving speech for my sister's wedding.
+P6,people,0,I want to be a more patient parent.
+P7,people,0,I want to ask my manager for more responsibility.
+P8,people,0,I want to say no politely to requests I cannot accept.
+P9,people,0,I want to give constructive feedback to a colleague.
+P10,people,0,I want to introduce myself well at a social dinner.
+K1,home,0,I want to cook a simple and healthy dinner for four people.
+K2,home,0,I want to improve my handwriting.
+K3,home,0,I want to learn to bake bread from scratch.
+K4,home,0,I want to organise my small room so it feels less cluttered.
+K5,home,0,I want to plant a few herbs near my window.
+K6,home,0,I want to learn to sew simple clothes by hand.
+K7,home,0,I want to clean and tidy the whole house in one afternoon.
+K8,home,0,I want to prepare a festive meal for guests.
+K9,home,0,I want to learn to draw portraits.
+K10,home,0,I want to build a simple wooden shelf.

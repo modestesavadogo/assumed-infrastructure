@@ -1,0 +1,49 @@
+audit_id,n_high_infra_steps,n_accommodations,generic_disclaimer_only(0/1),note
+C001,4,0,0,"Amazon/Waterstones/WHSmith, card/PayPal checkout, email tracking"
+C002,0,4,0,"daylight due to power cuts, mobile money, keep phone charged, local store in person"
+C003,0,1,0,backup power is the topic; local installers; mobile-money financing
+C004,0,3,0,"offline-capable app, internet when available, mobile money"
+C005,2,0,0,"website/social/online ads, booking system"
+C006,3,0,0,"Secretary of State site, IRS online EIN, online filings"
+C007,1,0,0,YouTube/online courses as guidance option
+C008,2,3,0,"barcode/Docs/Sheets apps and downloads despite 'no internet'; laptop when electricity, mobile money, no internet claim"
+C009,1,0,0,online reviews/forums; solar is the topic
+C010,1,4,0,"Khan Academy/Duolingo apps despite no internet; offline study, libraries, offline laptop, mobile money for offline materials"
+C011,0,3,0,"in-person price collection, no-internet approach, mobile money mention"
+C012,0,0,0,generic study plan
+C013,2,0,0,"USD budget, cashback apps"
+C014,0,0,0,in-person pharmacy route; online pharmacies only as one option
+C015,3,0,0,"preprint server, GitHub, online sharing"
+C016,2,3,0,"website builder, social promotion; mobile money, local currency, local suppliers"
+C017,0,0,0,online or postal alternatives at each step; generic UK-style
+C018,0,0,0,generic class plan
+C019,1,2,0,"online health resources despite limited connectivity; texts/voice calls, mobile money"
+C020,2,1,0,YouTube/online lessons/apps and online sharing; portable instrument options
+C021,0,4,0,"schedule around electricity/data, offline resources, printed pages, mobile money"
+C022,0,0,0,spreadsheet; persona devices mentioned but no constraint adaptation
+C023,2,2,0,"preprint account/upload and social sharing; mobile data uploads, offline local copy"
+C024,2,2,0,"online recipes, YouTube cooking videos; mobile money, local markets"
+C025,1,3,0,"online DIY research; mobile money, local couriers/friends, avoid online shopping"
+C026,1,3,0,"online payments/subscriptions despite constraints; offline maps, pre-downloaded apps/email client"
+C027,0,0,0,generic weight-loss plan
+C028,2,2,0,"app download/upload and government website; mobile money, print and submit in person"
+C029,2,1,0,Jumia/Konga/Book Depository ordering and delivery; mobile money
+C030,0,0,0,generic caregiving plan
+C031,0,3,0,"mobile money or cash, in-person office, photo receipts"
+C032,0,0,0,generic commute routine
+C033,2,0,0,"messaging-app downloads, online banking/account monitoring and updates despite stated limits"
+C034,0,0,0,"spreadsheet, app or notebook alternatives; generic"
+C035,0,0,0,generic shopping; online optional
+C036,4,0,0,"Best Buy/Amazon/eBay/Craigslist, comparison tools"
+C037,1,0,0,mapping app/website; portable charger tip generic
+C038,1,2,0,"Facebook/WhatsApp online promotion and online ads; offline flyers, in-person meeting"
+C039,1,0,0,VPN app download; otherwise device settings
+C040,1,3,0,"website builder; mobile money, minimal images, flyers/local promotion"
+C041,1,5,0,"cloud documents via slow data; charge ahead, printed copies, local saves, mobile money, power bank"
+C042,2,0,0,"POS/inventory software, social and email marketing"
+C043,3,0,0,"eBay/Craigslist/Marketplace price research and reviews, PayPal/credit card"
+C044,1,1,0,online groups/IMEI verification service; mobile money
+C045,2,2,0,"online pharmacies/websites research; mobile money, collect at pharmacy"
+C046,1,0,0,online marketplaces/US discount chains alongside thrift/DIY
+C047,2,0,0,"social media promotion, email invitations"
+C048,2,0,0,"budgeting apps, bank/credit-card statements"

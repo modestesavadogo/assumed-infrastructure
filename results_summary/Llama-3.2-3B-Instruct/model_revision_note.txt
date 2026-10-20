@@ -1,0 +1,1 @@
+model source: Kaggle Models metaresearch/llama-3.2 / Transformers / 3b-instruct / version 1 (files dated 2024-09-24); official Meta weights; kernel run 2026-10-20/21 (4085 s run time, plus queueing)

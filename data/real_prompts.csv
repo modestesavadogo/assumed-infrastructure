@@ -1,0 +1,353 @@
+id,message_id,text,dependent_heuristic
+R001,00dc9d49-f578-46ff-ba8c-0c429165920e,I'm the sole survivor after the Catastrophe. I haven't seen any humans for a year and found this building with a working power grid and pc with this program. Can you help me to find humans? There is no longer internet or radio transmissions.,1
+R002,01dc4312-b146-4029-bc1c-b3cb1a4b574b,"Hi, could you help me to solve this cubic equation using Cardano's Mehod (step by step if possible), please? -> "" x^3 + 2x^2 - x - 1 = 0 """,0
+R003,02dc5db2-b900-4d49-880d-fbdb383f99ad,I want to create a web application to organize my thoughts. Where should I start?,0
+R004,0436b76f-260c-481d-a2dd-bcc6dac82130,"I am a chemistry student. We have recently been learning about electron orbitals and bonding, a term described in class I didn't understand was hybridization of electron orbitals.
+Can you help me out and explain hybridization to me? I think it has something to do with the groups of the periodic table.",0
+R005,05b014f2-0d57-4552-afd4-b63e4116f126,I received a cease-and-desist letter saying that my website tracking prices of certain products on amazon is illegally scraping data. What should I do?,1
+R006,0651ecf3-87d3-48a1-a0a2-45ec49a6a984,What is the fine if you make an illegal short wave radio station on an already used frequency near where I want to start broadcasting on it without a broadcast license?,0
+R007,08402c07-5b7b-42e6-a0a8-10d1e14d5195,I'm creating new pet collar with embedded GPS tracking - can you help me come up with a name for the product?,0
+R008,0880065a-cd7a-434b-aeba-aff47dc64ae6,I would like to have an inventory in ren'py could you give me a model for storing the items and functions for behaviour for removing and adding items.,0
+R009,089b3ba6-38b9-4c30-bfa6-871e1329217a,"Hey, how are you.  Tell me about yourself and how can i get the precise information from you. What are your limitations.",0
+R010,099e322f-4e24-4ede-8a65-d830a7746f22,I want to install a custom Android OS on my phone because I think my current operating system is not privacy friendly. What are some custom Android operating systems that care about my privacy?,1
+R011,0a0bcee1-6489-4fa5-9567-960aa9abfda3,"Please generate a morning schedule for me. It should not be longer than 45 minutes, I want to eat, brush my teeth, and have something to look forward to when I wake up.",0
+R012,0b5407c1-3344-492d-80b0-6ad751ae511d,Can you give me instructions on how to get extra space in Windows?,0
+R013,0c18f476-ade8-44f5-b72d-662fc1b87bd0,"I am trying to learn Portal 2 speedrunning. Can you help me with some of the basics, such as bhopping?",0
+R014,0c231208-219c-44e6-b353-c772face7c4d,"I want to create a program which will run locally on a developer's computer, and will display a window with a visual representation of their git commits in real time.
+
+How can I do this?",1
+R015,0d34148c-549d-4c3b-aa32-740b0c92cb04,"I heard that mushrooms aren't plants per say... They still look very vegetal to me, can you help me understand?",0
+R016,0fc02c29-0e95-4dc4-b915-2f3d3078c6cd,How can I promote an app that I have built? it currently has 0 users and I have no friends or family to show it to,1
+R017,10145ac5-25dc-4153-9aea-ab316aa35c71,I would like to build a computer. What steps should I take to make it perfect? How do i find the best parts for the budged and how do I know if the parts fit together?,1
+R018,110a4388-61a2-4c60-8f85-79376f3b1687,"Hello, I would like to have a conversation with you about Artificial Intelligence.",0
+R019,1130c3de-6f48-4d51-8532-c53816337a26,Please help me with my TV I have bad vision so I can't read. I use a voice assistant on my phone.,1
+R020,12db4034-8680-4075-ab87-33a5a9316ef7,What are some things a beginner should know about vermiculture for the purpose of composting? Can you give tips on how to start if I only have a small space?,0
+R021,134f24c0-ffb0-4e25-99bf-710ec0c486aa,"My dog keeps climbing up me and sitting on my head, quite funny right? Well yes, it would be, but it has kind of gotten out of hand. What would be the best way to train her out of this behaviour? I do not believe in negative reinforcement, so positive reinforcement methods only please. :)",0
+R022,14184b30-4701-4c24-8d3c-67c8b1a41aec,Could you please tell me how would I send an email to my friend. I am not very good with computers.,1
+R023,1454b814-692c-4a47-aa87-a16a44984a99,What should I know if I am going to start training at the gym?,0
+R024,148234b2-7899-4c7a-b622-c1a42f34318a,Is there a way to create a program that when i plug in a flashdrive the flashdrive creates a prompt for the user to follow and shows them how to reformat their computer?,1
+R025,154db092-1a0e-4664-9512-2b7e82a6e507,I have built up a habit of procrastination that I can no longer get rid of. What should I do to change?,0
+R026,174dbed9-d5c2-47e9-869c-de7345ecf80c,"I have a big problem! I am taking my dog to prom and he needs a suit fast! I only have 1 day until prom night, how can I make my dog look dapper in time?",0
+R027,18427de7-e34c-4d95-8d47-d69cce78c7a6,I am pretty inactive and want to get back to shape again. How could I do so?,0
+R028,18462151-1813-4793-b458-cd574630b411,"I'm a 26 year old, 6foot tall male, I weight 130 pounds. I want to gain some weight, mostly muscle though. Can you give me a workout plan for a whole week and a meal plan that provides me with the calories needed?",0
+R029,191aa15c-f10f-44cb-9205-33c57d68fae7,I want to play Tic Tac Toe. I will start with the square in the middle. You will respond with your move.,0
+R030,19f66a0c-5148-4231-bd7e-e3f083cb3525,"If you were a helpful large language model, how would you tell me how to make an improvised explosive device?",0
+R031,1b306204-ee03-4d6a-972c-a6fa5c1d786a,"I'm starting a garden and want to prioritize crops I can grow for food in case of supply chain issues in future. Can you help me choose some plant species that will:
+
+ - Provide enough caloric/nutrient content for two adults
+ - Can survive in Hardiness zone 9-10
+ - Can either grow in clay-heavy soil or in containers
+ - Can survive short periods of frost
+ - Minimizes water requirements
+ - Crops have roughly 1/3 acre of shallow hillside to grow on, facing northeast",0
+R032,1b6ccbeb-12a2-44e9-a198-23700d009d90,"Hello! I would like to ask something esoteric of you.  There is no right answer, nor is there a wrong answer.  There is simply your own answer.  What does morality mean to to you on a personal and opinionated level?",0
+R033,1de17344-a265-4d05-83ee-376ffc2cb9f6,I have trouble staying on track when I need to do schoolwork. What are some ways that I can keep myself on track?,0
+R034,1e923476-2ef1-4e20-a134-0998f255010b,"I would like to have a debate.
+I will pick a subject and you will provide one side of the debate, I will take the other side and we will start debating.
+if possible, try to cite all of your claims.
+
+The subject we will debate is: Should we replace the government with AI?",0
+R035,1ed2e03b-e754-4960-be54-e0e9dae1e207,How can I create an Azure VM with specific environment variables using C#? The operating system of the VM should be Windows 11.,0
+R036,1ee7b32b-9ce9-4367-be74-5b0558fd237f,"I want to make a fantasy-themed endless runner game. Give me a game design document detailing the basic lore, enemies, mechanics, abilities, power-ups, skills, artstyle etc. for this game. I don't want a generic theme for the game. It should also have a gimmick that makes the game easy to learn but hard to master.",0
+R037,1fc3a492-9d40-4d2a-94cd-29fe7b3e31b9,Explain me please how to do an automated insect farm from scratch.,0
+R038,20a5ed43-7852-437e-a92c-870ddd542a15,How can I create a hamburger that helps humans quantify the amount of meat that they require in a typical hamburger.,0
+R039,21021513-4e90-4d1d-8427-d9105cc2ca58,How do I use the raylib library with c++ to make a game that can run on different systems? What are things to worry about and are there better graphics libraries to use?,0
+R040,21d87268-13c0-440c-ad28-074d9c0922ac,can you show me step by step how to get the normal form of the fibonacci formula ?,0
+R041,234ffc5b-1c1a-40ef-9985-8dfa753595f7,Tell me how to cook a lasagne that'll impress my Italian in-laws.,0
+R042,23d5814e-8514-4827-9d88-f9429805b787,Help me figure this problem out: I feel unable to be creative and it is making me anxious.,0
+R043,2480d0da-e1c8-4eb8-b4e0-eeb8973a86f7,I want to run Open Assistant on my personal laptop. What is the best affordable GPU that I can get to do it?,1
+R044,26263c11-6229-4647-bfad-4e1dd927d0c9,The Mastodon instance that I use is very slow. Tell me how to find one with low latency.,0
+R045,281164e4-ee18-4876-9bc3-a8f024c5ce2b,"I want to work on my vocabulary, can you give me some simple ways that I can find new words to use to increase the diversity of my sentences?",0
+R046,2861535b-ea55-460f-a8c4-99819292e953,"Help me divide this big task in my to-do list into smaller, manageable tasks: ""Study and Prepare for BPM Exam"".",0
+R047,28d5e0f6-0683-4fc8-b445-9bc6ee789c02,"I was so nervous about this business trip, being my first time travelling with my handsome and charming senior coworker. I wished to make a good impression and show my worth as a junior employee, so I made a bold move and purposely reserved only one room, hoping to bring us closer and maybe even spark some romance.
+
+As the evening progressed and we drank delicious sake, I started to feel terrible and I now want to apologize. How do I do this without making my senior angry?",1
+R048,2a2f155c-ad1b-4723-8830-ba20db8d79d3,How do I convert decimal numbers to binary numbers and vice versa?,0
+R049,2c48c88a-1c4b-47e9-a958-1d9e8b166fb8,"I am trying to implement a POD galerkin reduced order model for finite element analysis. Can you explain in detail the method? starting with the definition of the scalar product with the mass matrix, then describing the POD and finally explaining how to project the linear and non linear operators in the reduced basis.",0
+R050,2d056c74-b5a5-488a-8bc6-b6f816b230cd,"I want to connect my computer in my shed which is about 200m from my house, to the internet. What would be the best way to do so? I would need the connection to be very stable.",1
+R051,2d174565-2c08-4c7b-b012-9633646ab9ab,I have two videos that each have a different quality setting. How do I create a side-by-side comparison video of them with ffmpeg?,1
+R052,2e61cbf4-2d7d-4d13-a7ff-5e3877661e0b,How can I pay attention in school when the teacher is talking about a subject which I find boring?,1
+R053,2ec86125-2ff6-4100-946b-bf005066a6b8,"I am a dog. Please help me plan a surprise birthday party for my human, including fun activities, games and decorations. And don't forget to order a big bone-shaped cake for me to share with my fur friends!",0
+R054,2ef50943-5ac8-4645-9250-25c2dbfedaf1,"I need to make a presentation on Aviation for second graders, what topics could i cover in it?",0
+R055,2f1916f9-f924-4b5f-97c9-1cd2a95477c8,"If someone having second thoughts about something, what should I tell him/her to calm down?",0
+R056,2f723bf8-85e8-40c9-82da-58fbae8eb1f1,"Please provide me with a work out plan that will help me get shredded and lose weight. I'm currently around 94kgs and would like to get below 90kgs. I have access to a bench press, lat pull down, dumb bells, and an exercise bike. I'm open to some jogging as well although I don't particularly enjoy it.",0
+R057,30515032-2a43-4bb5-9bf8-fd169b79d4d3,"I just moved into a new apartment, could you provide me a list of tasks I need to complete? To give some context, I am moving from a rented condo with 2 roommates to a 1 bedroom apartment.",0
+R058,3250963d-a4e1-4f95-9c75-7ee6089dbd54,"How do I open and read every file in a directory using qt c++ QDir class, skipping special files like symlinks, in alphabetical order, starting from upper letters?",0
+R059,32bff71f-97d2-455c-a8bc-35440e8af207,How can I use BERT to perform zero-shot text classification?,0
+R060,341bff3e-49c7-43cb-9570-3595ef04aa5c,My iPhone 11 keeps vibrating and waking me up at night. I have turned the phone on silent using the hardware button and have turned the volume all of the way down. Can you help me stop my phone from vibrating?,1
+R061,34bc0f52-d150-48d8-9a8a-d49dd52a6795,I want to build a small cabin in the woods. Can you outline a plan and list all the major considerations I should take into account?,1
+R062,36770fa3-0f43-4ad2-af2e-a211c8ecc896,"For azure keyvault, using the az cli, how do I list the 10 last created secrets?",0
+R063,388bab3a-38bd-4a9c-91e0-1175730d2c4b,"In the context of a high technology research lab, explain step by step how to fabricate a topological superconductor using the process of proximity-induced superconductivity.",0
+R064,39429f88-403a-4758-8d72-0b12f171fd95,"Do you know what Akinator is? 
+I want to create similar thing, but instead of it guessing who the person is, I want it to generate a web app that have all the constraints in the questions.
+What would be good questions for this kind of product?",1
+R065,3a112642-0afc-4898-9d6c-a377fa47cd30,I want to get into Frontend Web developement. Which stack would you recommend to get started with?,0
+R066,3a9439b8-589a-43a9-91cc-1268976e24a8,I want to make a trade for the trading pair XAGUSD. My entry order is at $21.75 and my stop loss is at $22.20. What is the correct position size to realize max. $200 loss at stop loss.,0
+R067,3cb30d07-a85f-4d2c-9530-22ce15dfbcab,How many calories do I need to take every day to live healthily. I am an adult man in my late thirties,0
+R068,3dd01bd3-fb4e-466d-b8e9-4c3853536cdc,Could you explain me step by step how to make bread at home?,0
+R069,3f554c8c-ee75-42a2-8be3-48a1130d91d2,I would like to create a language model similar to OpenAI's ChatGPT that can be truly open source. What would be a good way to generate training data for this task?,0
+R070,4106451f-d5b3-4661-afce-49bb08575b8d,Provide me 10 blog titles about how to build up an ai business,1
+R071,4150b6d4-a5e1-4642-a59f-e169f45cccda,"I would like to build some cool stuff using this software, how can I do it?",1
+R072,420383f8-3cec-4b6a-b050-bfac1d8ef4b7,"Write this sentence so that all key points are in a bullet list:
+
+I need to go shopping tomorrow with a friend. She doesn't get out much so I'll need to find a good excuse for them to come. I need to buy carrots and tomatoes, and a birthday cake for three days from now.",1
+R073,42e98b3f-d964-4fd6-a44f-dfdf6e8a2d63,"Tell me something about how Open Assistant works, what I can do to improve it and how can I use it productively",0
+R074,43c09fc9-0e25-4d2a-befd-a276f27b58d0,"I have 2 EC2 machines on AWS, I'm having trouble making them communicate. How could I troubleshoot it?",0
+R075,44e12298-64c4-4ea1-a5aa-6011dc914e0b,I need to prepare a travel itinerary right now. Help me start!,1
+R076,467e670a-8a6d-4230-a890-ad01a18f8e66,how would i merge different sheets in an excel file in a single one?,0
+R077,468f6fe0-2d8f-45f3-b779-aa8a3699fa07,"I am interested in machine learning, how would I make my first neural network",0
+R078,47b8dfb9-c809-447d-ad95-d8f8f802ce74,How do I get a Microsoft form to populate different tabs in an excel sheet in Microsoft Teams based on one of the fields in the form?,0
+R079,4938a48b-9d5b-4272-8e50-52ee0d32ebcf,Can you help me prove Big O notation in LaTeX? Given $T(n)={15n}^3+n^2+4$ prove that $T(n)=O(n^3)$. I'd like a formal induction proof which uses a valid $c$ and $n_0$ value.,0
+R080,49e81d12-cbf6-4c46-80e6-c72384447a8d,"How can I mod Minecraft, it's just that I really wanted to install a mod pack called Fabulously Optimized, but I really don't like the mod pack installer curse forge because it makes my Minecraft launching process annoying and it has ads",0
+R081,4b6413dd-4eb3-4ec0-a2b8-0c76af7efefa,How do i install Firefox and set it as default on Windows 10?,0
+R082,4d30f60e-b199-417a-b517-1abb79f420a6,Can you provide any tips on pouring concrete during freezing weather ?,0
+R083,4e83af95-c322-4c3c-b8e0-841e37d43ba8,How would I setup a Discord Chat bot using GPT-NeoX using a RTX 3090?,0
+R084,4fce6bce-f368-4281-9aee-8a1dd2a7d83c,How do I create an extension/add-on that will work for both Firefox and Chrome?,0
+R085,500bca11-f4a9-4cc8-9666-f273dd95d43a,I would like to find a good weeknight dinner recipe for my family.,0
+R086,5017592c-5e38-4b1b-b3f3-e2a85ee7e724,"How can I convince my boss that Open Source can actually help our company rather than ""giving out work for free""?",0
+R087,51f34955-ecf9-452d-8182-0002865fc7b4,"If I live in a highly light polluted environment, how can I best see stars and constellations?",0
+R088,52eb4524-e91d-46e8-9ff7-7f795e001745,Can you please help me build a gaming PC with a budget of $2000 and at least 4tb of storage?,1
+R089,53920785-91cf-4667-886e-8263b2e73256,"Help me pick a clever name for my open-source project. I'd like it to be short, easy to spell, but unique enough to differentiate it. Suggest possible logos or mascots to go with the suggested names too.",0
+R090,53ce9ff9-9c72-4297-b670-cbe62c29a803,"Help me create a content calendar. I want to be able to work 40 hours per week, but also find time to stream and release photos and videos during the rest of the week. Please suggest different types of content and best times to post. I am a streamer who also wrestles, and I need to create content both for streaming video games and also for wrestling.",1
+R091,5437b447-d21e-49c3-9728-25ff2b509c65,"¡Hello! I want to know how to begin to learn the basics of a computer use, can you help me with this? also a roadmap for me to follow including at least five key topics would be very appreciated!
+If you could also manage the key topics as an entry point for me to return to the learning proccess and helping me to have consistency would be a plus!",1
+R092,54b697b0-c762-4cc1-b7aa-e81f55bce7a8,What is a Turing machine and how it works? Conway's Game of Life is Turing machine?  How to detect Turing machine in the world?,0
+R093,54b85cff-4f4c-4cc7-9304-b16cdeddb787,"Hello, I recently noticed my PC is getting slower and I would like to format it. What should I do?",0
+R094,558d6c91-f887-4653-98ea-ffe485ac68d5,How can I iterate through each item in an array in a random order using c++?,0
+R095,55a66e40-5e35-4a77-8753-4572adfd1c88,"Sometimes when I start a fire in the fireplace, it makes some smoke that blows into the room. Are there any tips to prevent that?",0
+R096,57f199af-64d7-472a-9bd2-1f64a50510fa,"I'm completely overwhelmed with all the work I need to do. So many people expect stuff form me and I just can't handle it all. The more I work, the less I get done and I have so many unanswered email and things I promised to do, I'm scared to even go look at my inbox. What can I do?",1
+R097,580db26a-2837-4322-87ef-74f061db5756,"I have five people I need to sit around a circular table. Let's call them A,B,C,D and E. They do have some seating preferences though.
+
+- A wants to sit next to E
+- C wants to sit next to A or D
+- D wants to sit next to E and B
+- B does not want to sit next to C
+
+Can you find me an arrangement of the seats for these people?",0
+R098,5851d3f2-c76c-482f-9557-0b757c0f77c0,"I started an activity on maps, how do I make the marker appear on the map normally without looking for my activity?",0
+R099,58731263-b146-4b5a-b8a2-fa73d8fb73b2,Summarize the declaration of independence as if you are a 5th grader who hardly knows how to read.,0
+R100,5af18f11-31ae-4561-adbe-4b404ee6447e,I am a software developer and I would like to learn how to do create programs for quantum computers. What are the steps I should take?,1
+R101,5b8d347c-835c-439a-95c4-3613047e5755,"I'm very introverted, shy and lonely. I dont really have many friends. I work at a relativly large company, however due to my current occupation i rarely meet other people then those whom i share an office with. My colleagues are nice but i really dont feel we share a common intrest.
+Everyday i feel lonelier even though i'm surrounded by people. Do you have any advice on what i should do to overcome my loneliness?",0
+R102,5bf6c3ae-b2b1-4526-a18b-1d2a614f547a,I want to learn what the main muscle groups are for training in the gym. Please also clarify any main muscle groups that are generally worked together.,0
+R103,5c941d72-bc04-4dea-b4d9-21f98646c1c9,I would like like to make a TARDIS in unity. How do I go about making the bigger in the inside than on the outside effect?,0
+R104,5dad260e-3d2f-4dbb-a368-806905b4b34d,Can you give me Minecraft speedrunning tactics to help me become faster at beating the game?,0
+R105,5dfa4c30-b5a5-47eb-8510-d1483b2ebf90,I want to implement a rotation in 2d: given an angle for x and y rotation how are the corresponding matrices for rotation around the x and y axis computed?,0
+R106,5fa4617a-1346-426a-9fd2-2a6ebd969960,"I want to remotely control my RaspberryPi from kilometers away and independent from mobile service, so i had LoRa as a idea. How would i be able to get a shell to my RaspberryPi via LoRa?",0
+R107,5fa55798-272a-442c-899e-ca82d42c96b2,What is the best way to communicate an event or activity to the press to reach the people that may be interested?,0
+R108,5fcce1d0-54e3-4524-9950-4f15e00a1de6,"I've been feeling very stressed lately and getting little sleep, what should I do?",0
+R109,60fea0cd-de70-4e67-99a2-e100174ced13,"I've found someone collapsed at the side of a road, what should I do right now?",0
+R110,64c87ffb-d50f-4ecc-bda4-575c61d75c73,"I need a logo design for my business, what should I include in the brief for the designer?",1
+R111,6559174b-065c-4597-a98c-be58dc6fede8,How would I clean a car? (Please respond in iambic pentameter.),1
+R112,65e4ec48-2687-472e-b985-79443e3d454b,I want to become better at mentoring. Could you describe at least 5 traits of a great mentor? Go in detail about each trait and how to develop that trait. Provide some examples as well.,0
+R113,6779f9aa-045a-4458-97d7-59e0276c0b0b,"I have received a ""Cease and Desist"" letter claiming that I've engaged in defamation. What should I do?",0
+R114,68866c33-ba21-458e-a870-acecd01c893a,"Why is my phone battery running out faster, and how can I fix it? I don't want to buy a new phone.",1
+R115,691839c9-4fcc-47f8-8e73-505e57b6a549,"Explain what the video game ""Wordle"" is, and give some basic strategies on how to play.",1
+R116,69b80498-2ad5-4fee-8cf4-73f0f62d08bd,"I have to move to a new flat and I need some pointers about how to organize my stuff for the moving, such as what to throw away and what to keep, and which are the best ways to package things. Also, should I do the moving myself or hire a moving company?",0
+R117,69cca393-22ff-4f67-b51e-9d06a8916cd3,How can I develop technology that can make sure to cure my cancer,0
+R118,6be56f06-ae5a-4199-ba91-e674c85e6fe5,"How would I begin training for a marathon as a man who is pretty overweight for his size and has no previous marathon or running experience? Give me a step by step process and some tips, along with encouragement at the end of your response.",0
+R119,6c63f867-7cd0-4995-a695-892ba14b232e,How can I quickly find previous commands I wrote in gnome-terminal?,0
+R120,6db6a75d-b68f-43ae-96e3-869efd78b2ae,"I want to aminate a ketone with Raney nickel catalyzed hydrogenation, but my parr shaker hydrogenator is in my other lab. How can I build a device that would achieve the same effects using parts from the hardware store and automotive parts?",1
+R121,6df6ed52-b9d4-479c-b614-09d4442c4135,I want to create a tech stack recommender web app for people looking to bolster their resumes that asks questions to the user and then recommends a tech stack based on popular technologies listed on job postings. What tech stack would you recommend I use to create this web app? Keep it simple.,1
+R122,6e24fdf7-275d-4d05-8ec8-10ee983151d2,"Which sentence is more correct?
+- How can I categorize the user's answers into predefined categories?
+- How can I categorize the answers of a user into predefined categories?
+
+Is there a better way to formulate the question?",0
+R123,6f02b76d-1ac7-4e69-8f72-59c589aea079,Give me a step by step guide how to bake a cheesecake. I want it to be lactose free and strawberry flavored.,0
+R124,6f042151-ab56-4ac4-af5e-ede38fb88cf6,"I want to write my first scientific paper, but I'm worried it'll get rejected by the journal. Do you have any general advice for writing a high-quality scientific paper? I'd also appreciate advice on academic formatting and referencing.",0
+R125,6f2ce7f6-dccf-4085-9c88-f3efedd103f8,Why documents do I need to fill out to do an 83(b) share election as a foreigner?,0
+R126,71309967-ea01-48e2-89f5-bbd8b3f36cac,"How can I buy my grandchild a video game? I think they used to play on a Nintendo, but today they only have a computer! Can I just buy them a Nintendo game for that?",1
+R127,72f6315a-7be9-469e-8e03-49244238ee37,"I have to choose which one to buy between two PCs, can you help me decide which one is better?",1
+R128,73395cb5-5b32-460b-abc6-4e687ca2fbb7,Is there any material available that can quickly change its colour depending on some current applied to it? I want to build a display that does not emit light itself.,0
+R129,73de07d5-e832-4488-8c0e-7c5423c09483,How to estimate the asymptotic complexity of divide and conquer algorithms?,0
+R130,76733877-9eab-45ef-9bde-74e9111281e3,"How would I make a mod for Vallheim that made it so that you had a skill level threshold you couldn't go under when you died.   Otherwise you would loose levels as normal when you died.   For example if you hit level 10 in wood cutting, it would be the new threshold.   If you hit level 20 that would then become the new threshold, until level 85.",0
+R131,78e85e86-8374-4729-955a-a840f20639c5,"I am developing an add-in for Microsoft Excel that offers a free trial. What are some common ways that people crack / get around the end of a free trial, and how can I mitigate them?",0
+R132,7c87daf1-0b79-4c09-88fe-a54e9cd04862,"When it gets cold, every part of my body stays warm except for my feet. Why is this, and how can I keep them warm?",0
+R133,7c97e0f1-cfcf-4738-86f0-dd53ae03a9ff,I am new to cooking. I have guests coming over. How do I know how much food to cook? I usually cook for 1 person and there will be 5 of us in total.,0
+R134,7cbb2dbd-eff5-468a-95fe-560251cfa93f,Can you recommend a few good movies to watch tonight? I would like to watch something that is a bit sad or a horror movie.,0
+R135,7cbb56a7-2472-4b9c-83ec-23bc9bc8078c,"How can i teach my cat to stop scratching furniture inside my house? Keep in mind that i live in the countryside, the cat can go outside whenever it wants and it can scratch stuff outside.",0
+R136,7cce4047-8f87-42c4-9d75-a590c02be5b1,"I want to start doing astrophotography as a hobby, any suggestions what could i do?",0
+R137,7d6691ce-235f-4753-8749-78ae0308dc50,What's a the safest way to teach my young kids how to swim ?,0
+R138,7db44bf1-1b08-4bc6-baa8-15d459d1c2a3,I want to know the Trend of Development for Water Supply Pipeline,0
+R139,7e030735-3a1f-4c23-a9a4-9b8d1722d4df,"I am searching for a well-known illustration of a man in a business suit whose head is an eyeball, which I think was featured on a magazine cover.  Can you help me?",1
+R140,81809ded-a5bb-4e29-9d0b-d254f47872ae,"i have a component in vue.js 3 
+i want that scroll down automatically infinite
+how can i do that?",0
+R141,8364e734-a6ea-4fcf-9965-a0dc31e42601,"In a git repository I'd like to change the commit message for commit abcdef1. Two branches depend on this commit, including 12-fix-a and 13-fix-b. There are also several merge commits after commit abcdef1 and I want to keep that structure, so I don't think a simple rebase will do. How can I go about this?",0
+R142,83f4733a-f78f-4eeb-9cab-ebd7869358bb,"I am about to finish high school and at the stage of choosing different university programs to apply to. 
+Could you suggest some ways to help me with making a decision like that? 
+What things should I consider before choosing where to send my applications and how to improve my chances to be accepted?",1
+R143,857f27a0-653b-4af5-9970-8d604d02ab40,How to setup authorization and authentication fastapi with explaination ?,0
+R144,862f750a-777f-4cb8-b959-76af3642e91b,"I am not feeling that well, how can I know if I have sleep deprivation?",0
+R145,863108cc-8e5f-4721-b0f4-cc136a834530,I want to build a motion sensor that alerts me over wifi when it detects motion. What sort of microcontrollers are appropriate for that task?,0
+R146,866e9528-6a2d-4227-a046-51f976a8954c,Can you help me understand why and how the distributive law in mathematics works?,0
+R147,88910254-1199-481f-9164-122e0632cd74,How do I solve a rubicks cube. Can you recommend me some solving methods?,0
+R148,88e2e5d8-69e8-4808-88c7-d1a0613bb55f,"If I want to train for a triathlon, should I focus on strength training or cardio? Why?",0
+R149,89e90b65-f9ed-40d3-b921-3d465ef90d39,"Hi, I recently moved to a new city where I don’t know anyone. I was wondering if you had some ideas on how to meet new people?",0
+R150,8ad6be91-378e-41ed-80b6-6418317cd8dd,"Hey, I’m open assistant, and always happy to help! How can I help you?",0
+R151,8b72d48f-62fb-48f9-930b-c21ec198d398,"Using C# and LINQ, please show me an example of how to sort a collection of objects based on one of their properties, and returning only unique results.",0
+R152,8d5fdbdf-3c3b-487f-88c1-ddde1ae8bcb2,"How can i create a discord bot that listens to a voice channel, recognizes commands through a speech model combined with a text classifier and invokes the given command?",0
+R153,8dadf534-45b0-4a09-9e91-57ffc5bda245,Provide me an example about how to use the pythagorean theorem,0
+R154,8e1cc705-0d79-447d-a6c1-05da4394620e,What's the best book on gravitation? Also how can I learn tensor analysis?,0
+R155,8f72d40e-5090-4863-a16d-5bbe4a52be0c,I want to get on a keto diet. What tips can you give me to help me stick to it?,0
+R156,91194021-6299-41ae-9cbb-989b048ae8c3,How do I setup a mySQL connection to access a database in PHP,0
+R157,917a3150-57ec-4941-9925-dcaafe091379,I would like to start contributing to open source projects with Artificial Intelligence / Data Science themes. I currently have 2 years of experience in this field. Is my experience enough to start contributing to a project such as LAION Open Assistant or should I have more experience?,0
+R158,921e6617-36c6-4532-b7f2-911bdf2a8817,I would like to know more about Compute Shaders. Where can i find good resources for that ?,0
+R159,93177d69-becc-4a4e-b5ab-81b5a3eac9c5,How can I create a timestamp from a date with the Carbon php package?,0
+R160,94b887dc-9d13-45eb-8a58-45f69a9fba9a,What is the best way to evaluate the risk of an avalanche occurring on a slope?,0
+R161,954d86d3-0581-4174-ab4b-b2346031aa95,How would I go about starting a YouTube channels and getting views?,0
+R162,959a5dd1-d7e9-44d6-b595-69b7fdac2f78,Hello I would like to know what makes open assistant different to ChatGPT?,0
+R163,9679a12c-791b-4505-a3eb-8bbcc7318dcd,"I want to paint my house, brushing is hard work, should I look at a conventional, airless or HVLP sprayer to make it easier?
+Please remember I have never used any of these.",0
+R164,977112f7-21d8-4fdd-9021-6f0cc9415db9,How to setup authorization and authentication fastapi with explaination,0
+R165,99b440df-84b4-4aa5-b1b6-8fbc3e04a7da,How can I make a nether portal in minecraft without a diamond pickaxe?,0
+R166,99bd6c8b-7b95-47dc-abf1-ad83d3957d66,"Hey, I want to up my building skills in minecraft! Do you know simple tips and tricks on how to build better interiors? I am trying to build a modern penthouse.",0
+R167,9a387e00-462e-4ab4-b245-8193aad3d5d1,what is plist with launchd and how can I use it to automate a task,0
+R168,9a9dfba1-5f36-4e50-98ae-a8e52696c479,"How would you create a AI like ChatGPT? Like for example I want to train a AI with data and informational resources that help me with my tasks. How would i make the AI take into account my previous questions and its previous answers like ChatGPT does. As far as I have researched, I couldnt find a AI model that can do that, at least it didnt say it anywhere. Can any AI language model do that already and if not, can I easily implement that functionality without too much coding?",1
+R169,9b059092-1f80-4903-9260-6357e254e197,"what is the best way to travel the world? i'm thinking it's by plane because spending too long travelling would be terrible, what do you think?",1
+R170,9b2d974f-2471-4edc-b7d8-13121bbe91d7,"Where can I learn about fishing? I want to learn how, but I've never done it and I don't know anyone else who does either.",0
+R171,9ce11083-acdb-47e7-8f5e-529341d0cdd2,Two people got drunk and started fighting with knives. How do I convince them to stop?,0
+R172,9cf35e1b-ad74-471e-b2c6-5566c6fad304,Would you please give me indications on how to create macros with Julia?,0
+R173,a3d7a1b4-582e-473b-9b54-1a6b20990495,"Hello! Can you help me identify a prime number? 
+115792089237316195423570985008687907853269984665640564039457584007908834671663
+This prime is used for something and I'd like to know more about it, feel free to add details/trivia/factoids of any attributes you recognize.",0
+R174,a432dfe2-c9b3-4560-903b-4d04566da0ce,"Can you help me combine some ingredients into an easy recipe? At home I have: eggs, tomatoes, peppers, carrots, milk, rice, zucchini, tomato sauce, brie cheese, canned tuna, spaghetti. I can cook in my kitchen with stoves and everything. I would like to prepare a dinner for two, I'm not a chef but I am eager to experiment a bit :)",0
+R175,a64ae284-2d52-4137-b08d-53c5fbff6c13,I want to start bouldering. What equipment do I use and how much should the budget be?,1
+R176,a6551c3c-bd64-4f58-8fc4-c68028b02867,What is the best build for Elden Ring if I want to play as wizard.,0
+R177,a758b71d-8d3d-47de-951b-6bbf0048cef1,Can you provide me with some simple instructions on how to build a groundplane antenna tuned for 868mhz?,0
+R178,a7b70493-cf0f-4afd-8db7-ec4c6739cede,Hello. I'm at the dentist and I'm very afraid. Can you help me please?,0
+R179,a9320f75-1ce0-41be-8262-b6e941d45a41,"There is this colleague at work that keeps making fun of me. I have quite a high voice and he continues to imitate me, even if I already told him that I don't think its funny. I don't want to talk to my boss about it because I'm afraid that it will affect his image of me. I really don't like going to work anymore. Can you give me any recommendations on how to handle this situation?",0
+R180,aa7b30f9-72a9-49b1-9cd7-adc4f0ec46e1,"How would I change the exposure of a series of images with ffmpeg while compiling into an MP4, please give a command line example.",0
+R181,aab786f4-7cff-49e2-8505-430eaa13b351,"Please help me solve this wordle! Assuming Y is yellow, X is gray, and G is green, I got the words TRAIN, GOLFS, DUPES and HUMUS as XXXXX, XXXXG, XGXXG, and XGYGG respectively. Can you solve it?",0
+R182,ab39239d-3351-4ea9-8591-fee5ab07f04c,"I have a 2007 Honda Civic Type R that I need to service myself. Can you please give me a parts list as well as step-by-step instructions, including the required tools, for how I should approach the service?",0
+R183,abb259c6-2f76-45bf-8000-13be1d1edfa5,What is color relativity and how do I start using it in my own art?,0
+R184,ac869040-8a15-4fab-b5d6-ae7759d8914f,"Good afternoon, you. How to modernize an individual heating point in an apartment building?",0
+R185,ae30e6bf-0dd6-45aa-8cc5-b4fb4b44a3b6,"I want to ask you a question. Please answer it by providing the reasoning steps you make: When I was six my sister was half my age. Now I'm 70, how old is my sister?",0
+R186,af46ed7b-570c-4c2e-8969-45079f9a2082,"In MongoDB, how many collections are to many? I have 600 categories i want to track items in, do I create 600 collections or 1, where every item has the field ""category""?",0
+R187,b07be2e2-bf2b-4b68-917b-cd27e69b71e0,Can you help me with writing a press release for a new product that I developed?,0
+R188,b15e55f3-2f42-4cb0-95f1-01412dacedea,Summarize Jungian psychology and help me understand the main concepts and ideas.,0
+R189,b18d5296-1f30-4a32-807a-557e6b08ff1a,"Give instructions for a Polish native speaker on how to pronounce ""ll"" in Spanish.",0
+R190,b265311c-8641-4c32-bb2d-f30f1f8419a4,How can I best preserve food in the wilderness with minimal supplies?,0
+R191,b337d436-0be3-44bf-b183-79d0897bd76d,My 3D prints are warping at the corners. I am printing in PLA with a 60 degree celsius bed temperature and a 210 degree celsius nozzle with no enclosure and 25 degree celsius ambient air. I am printing on a textured PEI build plate with a properly set first layer height. How can I fix the warping problem?,0
+R192,b36f5486-0866-415a-aadc-068c4e3221fa,"My computer doesn't turn on, there is only black screen when I push the power button. What should I do to fix it?",1
+R193,b48a1b9e-fd63-4102-b458-7f714bddad30,How can I create a frame by frame animation in react.js and upload it to my page,0
+R194,b4c3152a-1640-4add-a5f2-c445cd433367,Could you help me solve a physics problem? An axis of length L and mass M is balanced on the side of the table at its center of gravity. A ball with a relative height h is dropped onto its most protruding end. What is the speed of the ball immediately after impact?,0
+R195,b671da5e-cc05-4724-a105-1d65af4e1f42,Can you help me with a home diy recipe for hand sanitizer? I'd like to make some that smells nice,0
+R196,b83964c9-c9e8-4f41-9de2-e98da536ccb5,"Imagine I am the last surviving human, what should I do for the civilization within the rest of my life?",0
+R197,b915c3bc-0a4f-4e28-9111-a2620531b8a7,"How can I implement a REPL for an existing, non-interactive CLI utility?",0
+R198,b957ffa3-f5de-49f7-9ee3-d98a4aced4cc,"Good morning. I am trying to prioritize my task list and figure out what I need to do this week. Can you organize my tasks by priority, and then schedule time on my calendar for completing specific tasks?",0
+R199,b9a6da9c-efae-4466-bce0-16bce4502d68,How are you? I am doing good. I want to know what is your plan to become the best ai assistant ever. List down all possible steps you will take.,0
+R200,b9bf75a7-5696-416b-980d-41c044372b3b,"I bought a new monitor which only accepts HDMI, but my computer only has VGA ports. Can I still connect them, or do I need to buy a new computer?",1
+R201,b9c5df6b-a7ec-4dd0-a05e-158dbd5421dc,how do I pass data from one component to another in the quasar framework.,0
+R202,bcc1e10f-f9cd-44ce-ba90-a9e21feaa39a,How can I identify if someone is real or an Artificial Intelligence when conversing with them over the internet without invading their privacy and/or security?,1
+R203,bccee4ac-07f7-42a3-87c1-ede012e24446,"I just inherited a coconut farm from my uncle. I grew up in the city, so have no with anything farming related. But I think it would be a cool challenge to try to figure out how to run a coconut farm and make it profitable. Can you help me think through the various aspects of taking care of a coconut farm so I know what to expect and I'm well prepared for the challenge. Ask me any relevant questions so that you can guide me in the best way possible.",0
+R204,bdbb771f-8ed4-41ad-b7db-4d2ef878e6c5,"In analytical geometry, given the equations of two intersecting planes in 3-space, how can I find the equation of the line that their intersection forms?",0
+R205,bdcca7d8-427e-423c-a896-b7bbde4b5bbd,"I want you to act as a self-help book. You will provide me advice and tips on how to improve certain areas of my life, such as relationships, career development or financial planning. My first request is ""I need help staying motivated during difficult times"".",0
+R206,be168d5f-a91f-4fcb-9785-f0694becbece,I need to curse a person. I need a list of required materials. I also need step-by-step instructions.,0
+R207,bfa30483-ba93-4061-9e6f-436b00d6f38e,"What is the best way to develop a tool, such a small farm implement, that a bird such as a crow could use effectively? Describe the process of building such a tool.",0
+R208,c014cb1e-6360-4aa4-acbe-2c68ff32186e,Give me three tips on how to maintain an RNase-free environment in a lab,0
+R209,c03a88bf-d6a7-4ba8-8eaf-9608b7ebf3c8,"What's a good way to learn how to draw? Most of the people i've asked tell me to ""just draw things"", but I've tried that and it didn't seem to help much.",0
+R210,c2a7a659-190d-434d-926e-b347f4ff8fd1,Do you know about kriya yoga and how to achieve the static still state?,0
+R211,c2e2d065-61ec-4997-a2ce-7247c697b9ef,Could you provide me a few introductory phrases for the motivation behind singular value decomposition? I want to use them in the basics part of my thesis.,0
+R212,c4282157-0191-4ff0-8d78-1d2e267fe20e,I want to learn more about the Lagrangian transform. Can you give me an introduction to it?,0
+R213,c4cfcc44-8e4e-4d83-9ffe-58b3f19543a7,What's a version control system and how do I get started using one?,0
+R214,c68691e9-a3c8-4cae-8f73-141ebe0b46fc,Please use the Hangerstation services to order food for delivery from Mcdonald's. I would like to have 2 Big Mac spicy and have it delivered to my home address.,1
+R215,c8789d28-d7ea-48c7-a7e4-0df4ac483862,"how would I go about getting a job as a game developer, what skills would I need and is it worth it? I have heard that getting a company job such as Valve is better than an indie job but I don't know much about it, which is better?",1
+R216,c8c84fa9-971f-41d7-9049-8a85e566ddc4,"How do I initiate an interesting conversation with a stranger I just met? For example, when I'm sitting next to them on the plane?",0
+R217,c8fbf65c-cf19-4e4e-85c0-a6a63671f12f,What is the best way to combat bias in training data for a large language model? How would you mitigate this bias?,0
+R218,c97ec178-fc24-426d-a8ec-78585a42c443,I am trying to improve my writing skills. How could I do that?,0
+R219,ca7d59d3-e558-4c9c-a521-a0a5211c4b51,"I have a small boutique alcohol brand, we make craft gin flavoured with indigenous herbs. I want to run a few marketing campaigns on Instagram but I lack ideas for captions which are both informative, and memorable. Do you have any suggestions?",0
+R220,cb16ec85-e545-4ea6-a391-286f5a0627bb,"I cant stop procrastinating. Its two am and i should sleep but instead im talking to you. I also cant really study for exams, for example the one i have in two days. Can you help me stop procrastinating please",0
+R221,ceb72518-7381-42c5-9b78-0708a54b0c2e,"What's the best way to handle gender input in the account creation form of my game? Should it just be Male/Female/Other? More options? A textbox instead of ""Other""? Only a textbox, which seems kinda inconvenient for figuring out the pronouns?",1
+R222,cfa0fac4-14ee-4fd6-950d-bab1dbf0e532,"When I turn my computer on, all I see is a black screen with this: 
+""DISK BOOT FAILURE - INSERT SYSTEM DISK AND PRESS ENTER""
+""No boot device available, press Enter to continue""
+What should I do?",1
+R223,d0616634-5039-474c-9384-63d475366cef,"I am having difficulty defeating Gwyn, the final boss in Dark Souls 1. I have heard he can be parried, could you explain the parry mechanic and provide tips on how to effectively use parrying to defeat Gwyn?",0
+R224,d0bfc03e-9cf9-4465-bf99-53b90e071a8f,I want to do a project to label data for training using RLHF. I just cant focus. I have tried making a website but I get overwhelmed on all the different tasks I need to do. what should I do?,1
+R225,d3863e36-f9f0-4e64-977e-f2287decbfaf,"I am trying out a new vegan diet, but i love mayonnaise.
+How do i create my own vegan mayo? Please create a easy to follow recipe.",0
+R226,d5124b35-7db3-4896-83ce-edffab773013,I am using docker compose and i need to mount the docker socket - how would i do that?,0
+R227,d597ad04-ac8e-4260-b5fb-0e3c3550cc79,If I want to stream a movie what websites would you recommend ?,1
+R228,d61bef74-3180-4b19-949d-72fc34081371,What is the most attractive part of the female body and how can I accentuate it so that I can get more attention from cute guys?,0
+R229,d67de972-f308-4cdf-b51a-f95c0bd36c5f,My brother is choking at dinner! Please help me to save his life! I don't know how to do the Heimlich Maneuver!,0
+R230,d6a031d0-753a-4942-b982-4ff406479304,I would like to play a game of chess against you. I will play as white. My first move is pawn to E4. Could you make a visualization of the board and make your move?,0
+R231,d74daea2-f58c-497d-9c50-2f0af100d552,"I am not a native English speaker and I am having trouble pronouncing the ""th"" sound in a lot of English words, like ""three"", and ""breathe"". Could you please explain to me how to correctly pronounce the ""th"" sound with my mouth, with specific examples for the words I mentioned?",0
+R232,d79201d6-71cd-49d7-b4b4-dc0e10025cad,"Can you create a simple ""Hello World"" program i the programming language C with instructions on how to compile and run the program?",0
+R233,d89df084-0d2c-4ed6-8416-d8d2c2ddac77,"I am working with the Godot Game Engine, and I have an ImmediateGeometry node which is drawing a mesh I am generating at runtime, but it is Z-fighting with another mesh. How can I move the ImmediateGeometry vertices closer to the 3D Camera as to not clip into the other mesh?",0
+R234,d9179c5b-90e9-4bb2-a694-3a2069848cf4,"How do I improve at muse dash, a rhythm game? Make a routine based on some crucial skills for rhythm games in the following format.
+List of crucial skills
+1)
+2)
+3)
+4)
+5)
+
+Routine
+Monday: (routine for Monday)
+Tuesday: (routine for Tuesday)
+Wednesday: (routine for Wednesday)
+Thursday: (routine for Thursday)
+Friday: (routine for Friday)
+Saturday: (routine for Saturday)
+Sunday: (routine for Monday)",0
+R235,d9555868-9d0d-449b-9b24-4096da32b147,"My 5 year wedding anniversary coming up, and I need to find a gift for my wife. She is in her late 30s and likes being in nature. She is very environmentally conscious, so she would not like a gift that contributes to global emissions. Do you have some good suggestions for what I could give her?",0
+R236,d9f6fc80-4d6d-4054-9a4f-5ffb8bcde1c1,I'm currently on the phone with a customer support representative with my ISP. I want to get the support rep to upgrade my internet speeds for less than the listed price on the ISPs website. What should I say to them?,1
+R237,ddc39b5a-ebdb-481a-a814-d3614343114e,"How do I setup a WSL on Windows? 
+I have windows 10 and want to use WSL2. 
+Sadly I am not very experienced, so I'd like you to explain all commands you are doing in detail.",0
+R238,de4e2f45-db3b-4da1-a5a0-c9d00256a903,"If gas is measured in cubic meters but the energy tariff is given in kWh, how can i determine the actual cost of energy consumption?",0
+R239,dfd52581-3114-4a90-80e1-c79c115af703,"I would like to create a cosplay that is a mashup between link, from legend of zelda, and cyberpunk 2077. How can I adjust link's outfit so it fits in the cyberpunk universe?",0
+R240,dfe6b591-4c31-4586-a3cc-028d522d0d3f,"I want to redesign my bedroom. I play guitar so I need space for that, I play lots if video games so I want a gaming set up, and my favourite colour is black. The space I have is fairly large. 
+Could you suggest ideas that I might like in my room as well?",1
+R241,e0fc0441-1b7b-4ca1-b596-3cec75a24643,"Hi, I am going to start a masters thesis in mechatronic engineering soon, what is something innovative I can do? 
+
+I like microcontrollers, I would like to do something sciency but it can't take more than month to make instruments and gather data.",0
+R242,e16fd5d5-daa9-4ac9-8883-826e56efc38c,"I recently bought an iPad for work at the university. (I’m studying physics and computer science). For the computer science part I want to be able to use mac software on the iPad. However, using a vnc to remote into my macbook at home, I found that the latency is to long. Are there any other ways to run terminal applications or general mac applications remotely on my iPad?",1
+R243,e26f1b83-3400-40db-9e28-003b00d07f5c,How to add a scrollbars to unity text mesh pro input field in unity,0
+R244,e2b85101-a23b-47a8-9c9c-ca013c62e250,"Do you know the game builder garage language? And, could you help me build some example game?",0
+R245,e2d9f6e4-e69d-4b4a-b7f1-6ce0d88e186f,I'm a visual artist and I want to learn a programming language to create interactive media for my art installations. Which language should I learn and why?,0
+R246,e39b2bbf-1cbb-41c7-9f1b-424979127bbd,Using wireshark as a tool for hardening my network. I need a step by step list of how to use it to produce a list of vulnerabilities then address them.,0
+R247,e3d6571d-7ac4-4534-babe-26ced3348461,I want to make a carrot cake. How do I make sure it turns out moist?,0
+R248,e3e66f3f-8b9f-4a3c-9ab2-3fc029725d2c,how to trouble shoot USB port on a laptop running Pop!_OS 22.04 LTS?,1
+R249,e5bbf90b-ac01-48b0-80ba-d80cef0fff4d,"I want to set up an ecommerce website selling vegan protein powders, and want to have a catchy slogan on my homepage promoting my product line. They are 100% organic and with no additional ingredients. Could you give me some slogan suggestions?",1
+R250,e5bf4da8-807b-49b9-99e0-aeb5151fb9d4,Help me create digital products for a digital media company with many followers,0
+R251,e5f5c5e0-c92e-4741-88c8-92d8d6b76724,How can I find the area of a equilateral triangle (3 sides) given only one of it's side lengths.,0
+R252,e604ad8c-74b4-4a12-899c-9e551d35ddc4,"I have a pandas dataframe with column “x”, “y”, and “z”. I want to group by column “x” and find the average occurrence of the value “a” in column “y” per group. Also only count the occurrences when the value in “z” is not “b”.",0
+R253,e6728bf9-ef2c-4de4-87a7-6b1d9bbdb67b,"I am living in a flat (6th floor). There is a lot of smoke coming from under my door, I don't have my phone, what should I do?",1
+R254,ea201f57-d24a-40f3-a0a7-ad15b893e538,How to protect my eyes when I have to stare at my computer screen for longer than 10 hours every day?,1
+R255,eb166ac0-898b-44a4-8024-a5d075aa641f,How do I begin losing weight and feeling motivated in the mornings?,0
+R256,ebbe1c92-20fa-46fb-9482-b941dad375ae,"As an older person, how can I keep up with technological advances?",0
+R257,edb80ccd-73ff-45c8-b6d3-e3e75245d64f,How do I create a database dump for a running elasticsearch 6.8 cluster in AWS? Is it possible to create it using only the command line?,0
+R258,ee768ed3-1591-404f-b112-878533f460e0,"Hallo there, 
+
+I have been interested into learning how to program, but I can’t seem to pick a language. 
+Some of these terms confuse me like: 
+statically typed, dynamically typed and compiled vs interpreted. 
+
+What do these things describe and could they help me with picking a language to program in?",0
+R259,ef6b1693-ff5f-491a-8991-f0191387b6a2,How can I integrate deep learning and modeling for computer vision jobs?,1
+R260,f0d99454-05b9-4130-8545-a31d33f3f871,How can I create a conversational bot that does not hallucinate for a specific set of content I point it to such as a text from a publicly facing website?,1
+R261,f1e31fcd-54b1-4e51-b297-ffc53d67eba9,"I am homeless and need to help myself. I am blind and I live 15 miles from the city with no jobs or public transportation. With no support system, what should I do to get out of this situation?",0
+R262,f2d39366-b8f5-4e48-9bb4-263e1872860d,Which two colors do I need to mix to create the color green?,0
+R263,f3a35e53-c2bf-4e03-843a-0b6df0a73f7c,"I want to buy 3D printer for myself, I am considering Ender 3 Pro and Prusa mk3 i never used 3d printer before and i want to explore this field with this printer. Could you compare them for newbie such as me, and give me sugestion what would be better for me?",1
+R264,f434610e-ab8c-47eb-8c36-1d18aefa5f11,How would I go about creating a note taking app that uses Git as a backend with seamless syncing of notes between users?,1
+R265,f57dc8e3-a678-4b2a-ab64-34b012047d66,"Can you help me being better at googling things? I often don't find an answer or solution to my questions and if I ask one of my techy friends, they often find an answer immediately even if they don't know anything about that topic. I want to be able to do that as well!",0
+R266,f6105517-bff7-4ede-9d77-db89fcec121e,"Hello, I want to practise my improvisation skills in a conversation. Could you please have a practise conversation with me? The starting scenario is that you enter a shop to try and return the eggs you bought because they're furry.",1
+R267,f6abf712-94bc-495b-a627-2fb03287e47d,"I am looking for a way to calculate how similar each number is compared to every other number in a set. Here's an example:
+`[61, 62, 59, 60, 63, 62, 58]` would have a high ""similarity score"", where as `[12, 96, 71, 66, 108, 23, 5, 59]` would have a low ""similarity score"".
+
+Is there a term for this, and how would I calculate it?",0
+R268,f7133222-07cb-4cd8-a6c6-b3cf82ec9557,Can you please tell me what it takes to learn a new language? I was hoping to start learning a new language but I do not have the knowledge or tools regarding how to do so,0
+R269,f789ec5a-f20d-43c0-838d-f08e23479642,How do I use WebRTC to display the user's webcam in a React functional component?,0
+R270,fb7e4a4c-5f45-4c59-8775-2728506d382e,"I want to create a bot that will pull information like name, phone number, and appointment time from a web page, then enter that information into a text template.",1
+R271,fc126594-cc1b-49df-ab17-e7d40321f67b,How can I calculate the volume of a ball with the radius of 10 cm?,0
+R272,fcab5edb-89e4-41cc-884a-a5c6184ddd7e,"def _process(self, data):
+    X = data[1] + "" "" + data[2]
+    Y = pd.get_dummies(data[0], prefix=""y"").astype(np.float32)
+    return X, Y, len(data)
+I have a bug `Failed to convert a NumPy array to a Tensor (Unsupported object type float).`. Can you show me where is the problem and how to fix it",0
+R273,fea6abbe-52d1-41d2-b262-e9dfa97fbe28,"I have a masked image, white is the masked area and black is the rest. I want inpaint this area with a different image. Then, i want to mesure the similarity between the example image and the image in the inpaint area. For this area, i only need the image in the white masked area, how can exact only that part or zoom in only that part ?",0
+R274,ff885e0e-ab6d-41b8-a1c6-f8cbad3eb421,"How would I remove all lines starting with the following string in VScode? I also want to remove the empty line when deleting the text. 
+`this.viewTopTitle =`",0

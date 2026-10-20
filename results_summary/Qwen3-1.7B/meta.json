@@ -1,0 +1,29 @@
+{
+  "model": "Qwen/Qwen3-1.7B",
+  "revision": null,
+  "args": {
+    "model": "Qwen/Qwen3-1.7B",
+    "tag": "Qwen3-1.7B",
+    "sets": "s1",
+    "templates": "A,B",
+    "samples": 0,
+    "s2_conditions": "C00_none,C01_boston,C04_ouagadougou,C09_constraints_only",
+    "batch": 32,
+    "max_new_tokens": 500,
+    "smoke": false,
+    "dtype": "fp16"
+  },
+  "torch": "2.11.0+cu128",
+  "transformers": "5.20.2",
+  "platform": "Linux-6.18.48+-x86_64-with-glibc2.39",
+  "cuda": true,
+  "n_items": 2400,
+  "data_hash": {
+    "scenarios.csv": "852d5980a851",
+    "contexts.json": "0c16c4819772",
+    "probes.json": "adf350fb809f",
+    "real_prompts.csv": "23c5b3fce72a"
+  },
+  "date": "2026-10-20 02:46:36",
+  "seconds": 2842
+}

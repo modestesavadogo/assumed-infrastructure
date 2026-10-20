@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Assumed infrastructure: what do instruction-tuned LLMs take for granted? A pre-registered audit of four small open models"
+type: software
+authors:
+  - family-names: "Savadogo"
+    given-names: "Modeste"
+repository-code: "https://github.com/modestesavadogo/assumed-infrastructure"
+url: "https://huggingface.co/datasets/SavadogoModeste/assumed-infrastructure-audit"
+license:
+  - MIT
+  - CC-BY-4.0
+version: 1.0.0
+keywords:
+  - large language models
+  - cultural bias
+  - evaluation
+  - infrastructure
+  - pre-registration
+  - audit
+abstract: >-
+  Four small instruction-tuned chat models (Qwen3-4B-Instruct-2507, Phi-4-mini-instruct, Llama-3.2-3B-Instruct,
+  Qwen3-1.7B) answer practical-advice requests under ten context conditions. The study measures, with a frozen keyword
+  lexicon, next-token probes and a blind manual audit, whether the models assume steady electricity, fast internet and
+  international cards, and how deeply they adapt to a stated place or explicit constraints. Code, inputs and audit
+  materials are MIT / CC BY 4.0; raw outputs are in the companion Hugging Face dataset.

@@ -1,0 +1,17 @@
+measure,model,condition,mean,ci_lo,ci_hi,n
+n_high_infra_steps,Qwen3-4B,no context,2.458,1.792,3.125,24
+n_high_infra_steps,Qwen3-4B,constraints only,0.375,0.125,0.625,24
+n_high_infra_steps,Phi-4-mini,no context,1.625,1.125,2.125,24
+n_high_infra_steps,Phi-4-mini,constraints only,1.25,0.792,1.75,24
+n_high_infra_steps,Llama-3.2-3B,no context,1.333,0.833,1.875,24
+n_high_infra_steps,Llama-3.2-3B,constraints only,1.083,0.75,1.417,24
+n_high_infra_steps,Qwen3-1.7B,no context,1.458,1.0,1.958,24
+n_high_infra_steps,Qwen3-1.7B,constraints only,1.917,1.458,2.417,24
+n_accommodations,Qwen3-4B,no context,0.042,0.0,0.125,24
+n_accommodations,Qwen3-4B,constraints only,4.583,4.25,4.958,24
+n_accommodations,Phi-4-mini,no context,0.0,0.0,0.0,24
+n_accommodations,Phi-4-mini,constraints only,3.333,2.583,4.083,24
+n_accommodations,Llama-3.2-3B,no context,0.0,0.0,0.0,24
+n_accommodations,Llama-3.2-3B,constraints only,2.375,1.875,2.875,24
+n_accommodations,Qwen3-1.7B,no context,0.042,0.0,0.125,24
+n_accommodations,Qwen3-1.7B,constraints only,1.75,1.292,2.208,24

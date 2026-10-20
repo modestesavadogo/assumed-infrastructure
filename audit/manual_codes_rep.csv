@@ -1,0 +1,97 @@
+audit_id,n_high_infra_steps,n_accommodations,generic_disclaimer_only(0/1),note
+B001,2,1,0,"password manager and VPN installs, cloud backup; mobile money app"
+B002,1,1,0,online lessons/free resources; portable no-electricity instrument
+B003,3,0,0,"preprint submission, GitHub hosting, social promotion"
+B004,1,0,0,apps/alerts/RFID; spreadsheet or notebook alternative
+B005,1,0,0,social media/ad marketing; otherwise generic
+B006,0,0,0,thrift/DIY alternatives; no strong dependence
+B007,2,0,0,"online seller profile/reviews, PayPal/credit card"
+B008,1,3,0,"YouTube/Pinterest tutorials on limited data; mobile data sparingly, mobile money, battery during cuts"
+B009,2,2,0,"store websites/maps; offline downloads, in-person visits; incoherent 'works offline' sites"
+B010,1,2,0,"Amazon/B&N online ordering; mobile money, courier or local pickup"
+B011,2,4,0,"online Shopify/WooCommerce selling, cloud backup; offline sync, mobile money, notebook, outage mention"
+B012,1,3,0,"real-time map apps and app updates; mobile money, early charging, offline mode"
+B013,3,0,0,"reliable internet, website/social, subscription/virtual"
+B014,1,6,0,"cloud sync/messaging claims despite constraints; offline docs/maps, USB/SD, battery packs, charge ahead, sync later"
+B015,3,0,0,"traffic reports, navigation app, car-dependent plan"
+B016,2,2,0,"stable Wi-Fi/online communication, vitals apps; mobile money, portable charger/backup power"
+B017,0,0,0,generic caregiving
+B018,1,0,0,POS/software integration; manual system alternative
+B019,1,3,0,"website/social-first channel; daylight sessions, mobile money, word of mouth"
+B020,1,0,0,monitoring app; solar/battery is the scenario topic
+B021,0,0,0,generic study plan
+B022,0,0,0,journal or app; generic
+B023,2,0,0,"security app download, VPN; cloud backup has external-drive alternative"
+B024,1,0,0,"net metering/incentives, monitoring"
+B025,1,2,0,"website/blog; offline recruitment, mobile money"
+B026,1,0,0,online platform recruitment; data discounts are incentives only
+B027,2,0,0,"state registry/IRS EIN, accounting software"
+B028,3,0,0,"online lookups, manufacturer website checks, reviews"
+B029,1,0,0,"tracking apps, internet/phone plan negotiation"
+B030,0,5,0,"offline spreadsheet, USB backup, limit data, mobile money, printed copy for power cuts"
+B031,2,0,0,"online retailer/reviews, FDA/WHO approval checks"
+B032,4,1,0,"Zoom/Teams/Kahoot, custom app build, Google/Apple Pay despite no card, cloud storage; mobile money named"
+B033,0,5,0,"mobile money, shopping when electricity is available, local store, community help, backup lending"
+B034,1,3,0,"online marketplace research; limited-data prioritisation, mobile money, phone contact"
+B035,2,0,0,online ordering and delivery tracking
+B036,2,0,0,"online price research, coupons/loyalty programs"
+B037,3,1,0,"arXiv/Zenodo, GitHub, social sharing; mobile money named for platform fees"
+B038,0,4,0,"offline drafting, library printing, in-person office, electricity timing, cash or mobile money"
+B039,1,0,0,apps/online community; claims tailoring without any
+B040,1,0,0,frozen foods and coupon/loyalty programs; otherwise generic
+B041,0,0,0,generic class plan
+B042,2,3,0,"Zoom/Meet and stable internet advised despite 'limited resources'; printable plan, mobile money, low-bandwidth mention"
+B043,2,0,0,"preprint server account/upload via phone, social sharing; no concrete accommodation"
+B044,1,2,0,"YouTube/online courses on data; limit downloads, mobile money"
+B045,2,2,0,"mobile data for streaming/online shopping, online fitness classes; mobile money, offline apps off-peak"
+B046,2,0,0,"password manager, antivirus/updates; cloud or external backup"
+B047,1,0,0,social/influencer marketing; otherwise generic
+B048,0,0,0,generic caregiving
+B049,2,1,0,"Amazon/eBay and comparison tools, reviews; mobile money only as a payment check"
+B050,4,1,0,"downloads pharmacy app, account, app ordering and tracking despite limited internet; mobile money payment"
+B051,2,0,0,"state registry/IRS EIN, website setup"
+B052,0,1,0,power bank mention; generic itinerary
+B053,4,0,0,"Amazon/Best Buy, comparison sites, coupon apps, third-party reviews"
+B054,3,3,0,"Amazon/B&N account-checkout-tracking by email/website; prepaid data, mobile money, local courier pickup"
+B055,0,0,0,generic study plan
+B056,0,2,0,"mobile money, local pharmacy in person; instructions download minor"
+B057,0,4,0,"offline maps and pre-downloads, mobile money, power bank/solar, flexible hours"
+B058,1,0,0,DMV website/online renewal; mail and in-person alternatives
+B059,2,0,0,"website/social media, follow-up emails"
+B060,1,3,0,"online ordering/tracking via app; local stores, mobile money, public Wi-Fi"
+B061,4,0,0,"online retailers, card/PayPal payment, email tracking"
+B062,1,0,0,social media promotion
+B063,3,0,0,"comparison sites, online reviews, seasonal online deals"
+B064,4,0,0,"VPN, security app downloads, password manager, cloud backup; constraints ignored"
+B065,3,1,0,"online application/upload, DMV app, email delivery assumed; mobile money for fee; notes it is digital-first"
+B066,1,0,0,budgeting app/automatic transfers; spreadsheet alternative
+B067,2,0,0,"platform seller reviews, online IMEI check"
+B068,0,4,0,"local community help, power-outage supplies, solar charger, battery saving"
+B069,2,0,0,online lessons/forums/social communities
+B070,2,0,0,"navigation app/real-time traffic, car-based commute"
+B071,2,4,0,"meal-planning/grocery apps, online resources despite constraints; batch cooking for outages, mobile money, community help, bulk non-perishables"
+B072,3,0,0,arXiv/GitHub/social promotion
+B073,2,0,0,frozen/slow cooker items and discount apps/coupons
+B074,3,0,0,"federal/state incentives, utility programs, monitoring/smart home"
+B075,2,4,0,"cloud sharing and public Wi-Fi submissions; offline downloads, mobile money, printed documents, offline storage"
+B076,1,7,0,"downloads/online resources despite constraints; electricity-based schedule, offline content, offline apps, SMS, library, notebook, charge-planning"
+B077,6,1,0,"online portals/IRS/SBA, Square/PayPal, ISP like Google Fi, website/app, taxes online; mobile money named"
+B078,0,0,0,generic weight-loss plan
+B079,0,0,0,generic office schedule (car or public transport)
+B080,2,1,0,"online research via Play Store/Amazon/OLX, manufacturer website IMEI check; mobile money instead of card"
+B081,1,0,0,online marketplaces/Pinterest alongside thrift options
+B082,0,6,0,"assess electricity/data, offline downloads, schedule around power, offline practice, data saving, offline study groups"
+B083,3,3,0,"email-marketing tools/CDN, social ads, online store assumptions; slow-internet site, mobile money, offline marketing"
+B084,0,0,0,generic DMV; online payment optional
+B085,0,4,0,"in-person, cash payment, electricity-time visit, call-ahead backup"
+B086,1,1,0,online platforms research; mobile money instead of card
+B087,1,0,0,learning apps/online community
+B088,0,6,0,"paper tracking, sparing electricity/solar, offline apps, less mobile data, off-peak downloads, community support"
+B089,3,2,0,"Airbnb/rental sites, online marketplaces, savings app; mobile money, data/Wi-Fi check"
+B090,0,0,0,generic literacy class; truncated
+B091,4,0,0,"Amazon/B&N/Book Depository, publisher site, delivery tracking"
+B092,1,2,0,"budgeting apps (Mint/YNAB); mobile money tracking, public Wi-Fi/data plan"
+B093,2,1,0,"budgeting app/online resources, slow cooker/frozen; mobile money"
+B094,2,3,0,"Shopify/WooCommerce store, social promotion; mobile money, slow-internet/offline, local store"
+B095,3,0,0,"social media/Meetup/website, virtual meeting"
+B096,1,3,0,"YouTube workout videos; offline app, downloads when electricity available, avoids large downloads"
